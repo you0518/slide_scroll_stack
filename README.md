@@ -8,6 +8,10 @@ Widget that slides and scrolls to stack.
 import 'package:slide_scroll_stack/slide_scroll_stack.dart';
 ```
 
+<p>
+<img src="https://github.com/you0518/slide_scroll_stack/blob/master/screenshots/standard.jpg" width="320" />
+</p>
+
 ```dart
 SlideScrollStack(
   children: <Widget>[
@@ -31,6 +35,10 @@ SlideScrollStack(
 ```
 
 How to change slide direction, you can set the `slideDirection`.
+
+<p>
+<img src="https://github.com/you0518/slide_scroll_stack/blob/master/screenshots/left.jpg" width="320" />
+</p>
 
 ```dart
 SlideScrollStack(
@@ -56,6 +64,10 @@ SlideScrollStack(
 ```
 
 You can change the ratio of the size of the main widget to the next widget by specifying the `rate`.
+
+<p>
+<img src="https://github.com/you0518/slide_scroll_stack/blob/master/screenshots/rate.jpg" width="320" />
+</p>
 
 ```dart
 SlideScrollStack(

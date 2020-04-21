@@ -1,6 +1,6 @@
 name: slide_scroll_stack
-description: Widget that slides and scrolls to stack.
-version: 0.0.2
+description: Scroll and stack widgets as you slide each widget up, down, left and right.
+version: 0.1.0
 homepage: https://github.com/you0518/slide_scroll_stack
 
 environment:
